@@ -34,4 +34,4 @@ if __name__ == "__main__":
     query = takecommand().lower()
 
     if 'hello' in query:
-        speak("Fuck out sir")
+        speak("hi sir")
